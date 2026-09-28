@@ -21,147 +21,36 @@ Pinecone, Hugging Face, and Power BI**.
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Tech Stack
 
-### Languages
-- Python
-- C++
-- SQL
-- JavaScript
+### 🧠 AI / ML & Data Science
 
-### Data Science
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Statistics
-- Power BI
+[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
+[![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
-### Machine Learning
-- Regression
-- Classification
-- Clustering
-- NLP
-- Feature Engineering
+### 💻 Core Programming
 
-### AI / Generative AI
-- TensorFlow
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- Pinecone
-- Hugging Face
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- Streamlit
+### 🤖 Generative AI & NLP
 
----
+[![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
+[![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)](https://python.langchain.com/)
+[![Pinecone](https://img.shields.io/badge/PINECONE-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+[![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
-## 📌 Featured Projects
+### 🗄️ Databases, Analytics & Tools
 
-### 🏥 Medical Chatbot
-
-**Tech Stack:** Python · LangChain · Pinecone · Pandas · Hugging Face · Groq API
-
-- Built a Retrieval-Augmented Generation (RAG) architecture for querying medical
-  literature with context grounding.
-- Developed custom chunking and preprocessing pipelines using Pandas and LangChain.
-- Generated dense embeddings using Hugging Face models and indexed them in Pinecone
-  for similarity search.
-- Integrated Groq API with Llama-3.1-8B-Instant for fast clinical question-answering.
-
----
-
-### 🎬 Netflix Data Analysis
-
-**Tech Stack:** SQL
-
-- Analyzed Netflix data using advanced SQL queries.
-- Performed data cleaning, filtering, and aggregation.
-- Identified content trends, popular genres, and viewer behavior patterns.
-- Analyzed high-engagement content across different regions.
-- Extracted insights to support data-driven content recommendations.
-
----
-
-### 💳 Credit Card Dashboard
-
-**Tech Stack:** Power BI · SQL
-
-- Analyzed monthly, quarterly, and annual spending patterns.
-- Examined expenditures across transaction types and card channels.
-- Built dashboards to analyze customer spending behavior.
-- Identified seasonal demand patterns and changes in spending behavior.
-
----
-
-## 🧠 What I'm Currently Learning
-
-- Machine Learning
-- Generative AI
-- Retrieval-Augmented Generation
-- Natural Language Processing
-- Data Analytics
-- Advanced SQL
-- Statistics
-
----
-
-## 🏆 Achievements
-
-- Solved **100+ SQL problems** across LeetCode, DataLemur, and HackerRank.
-- Practiced advanced SQL concepts including:
-  - JOINs
-  - Window Functions
-  - Subqueries
-  - Aggregations
-
----
-
-## 🎭 Leadership & Activities
-
-### Kalaam NITR — Coordinator
-
-**NIT Rourkela | May 2025 – Present**
-
-- Led a team of **40+ members** in managing and executing organizational initiatives.
-- Organized literary sessions and poetry events promoting Urdu literature.
-- Guided members on technical aspects of Urdu poetry including meter, rhyme, and
-  symbolism.
-
----
-
-## 🎓 Education
-
-**National Institute of Technology, Rourkela**
-
-Bachelor of Technology in Chemical Engineering  
-August 2023 – Present  
-CGPA: **7.30**
-
----
-
-## 📚 Relevant Coursework
-
-- Machine Learning
-- Object-Oriented Programming
-- Database Management Systems
-- Generative AI
-- Exploratory Data Analysis
-- Principles of Statistics
-
----
-
-## 🤝 Let's Connect
-
-📧 **Email:** itssaif5@gmail.com
-
-🔗 **GitHub:** [mohammad-saif-ansari](https://github.com/)
-
----
-
-⭐ *Always learning, building, and exploring the intersection of data, AI, and
-real-world problems.*
+[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
