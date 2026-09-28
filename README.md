@@ -1,20 +1,23 @@
-Hi, I'm Mohammad Saif Ansari 👋
-Data Science | Machine Learning | Generative AI | SQL
+# Hi, I'm Mohammad Saif Ansari 👋
 
-🎓 B.Tech in Chemical Engineering — National Institute of Technology, Rourkela
+### Data Science | Machine Learning | Generative AI | SQL
 
-I’m an engineering undergraduate passionate about Data Science, Machine Learning, Generative AI, and Data Analytics. I enjoy turning data into actionable insights, building machine learning solutions, and developing AI-powered applications.
+🎓 B.Tech in Chemical Engineering at **National Institute of Technology, Rourkela**
 
-Currently, I’m focused on strengthening my skills in Python, SQL, Machine Learning, Deep Learning, RAG, LangChain, and Data Analytics.
+💡 Interested in **Data Science, Machine Learning, Generative AI, and Data Analytics**
 
-🚀 About Me
-🎓 Bachelor of Technology at NIT Rourkela
-📊 Interested in Data Science, Data Analytics, Machine Learning, and AI
-🤖 Building applications using Generative AI, RAG, and LLM-based systems
-🗄️ Experienced with SQL, PostgreSQL, Pandas, and data analysis workflows
-📈 Interested in transforming raw data into meaningful insights and practical solutions
-💻 Regularly practicing C++ and Data Structures & Algorithms
-🔬 Exploring the intersection of engineering, data, and AI
+---
+
+## 🚀 About Me
+
+I'm a Chemical Engineering undergraduate at **NIT Rourkela** with a strong interest in
+Data Science, Machine Learning, SQL, and Generative AI.
+
+I enjoy working with data to uncover meaningful patterns, building machine learning
+solutions, and developing AI applications using modern frameworks and tools.
+
+My current technical focus includes **Python, SQL, Machine Learning, RAG, LangChain,
+Pinecone, Hugging Face, and Power BI**.
 
 ---
 
