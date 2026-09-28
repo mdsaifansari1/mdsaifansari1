@@ -2,7 +2,7 @@
 
 ### Data Science | Machine Learning | Generative AI | SQL
 
-🎓 B.Tech in Chemical Engineering at **National Institute of Technology, Rourkela**
+🎓 B.Tech at **National Institute of Technology, Rourkela**
 
 💡 Interested in **Data Science, Machine Learning, Generative AI, and Data Analytics**
 
